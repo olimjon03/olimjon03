@@ -1,39 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="328" viewBox="0 0 1280 328" role="img" aria-labelledby="title description">
-  <title id="title">Olimjon Tojiboev — Ideas into working software</title>
-  <desc id="description">Original dark navy banner with mint and violet light, a geometric cube, and a build-test-improve workflow.</desc>
-  <defs>
-    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#111b2e"/></linearGradient>
-    <linearGradient id="accent"><stop stop-color="#34d399"/><stop offset=".55" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
-    <radialGradient id="glow"><stop stop-color="#6d28d9" stop-opacity=".3"/><stop offset="1" stop-color="#6d28d9" stop-opacity="0"/></radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0v32" fill="none" stroke="#6a8db9" stroke-opacity=".09"/></pattern>
-  </defs>
-  <style>
-    text{font-family:Arial,Helvetica,sans-serif}.float{animation:float 6s ease-in-out infinite}.pulse{animation:pulse 4s ease-in-out infinite}
-    @keyframes float{50%{transform:translateY(-8px)}}@keyframes pulse{50%{opacity:.45}}
-    @media(prefers-reduced-motion:reduce){.float,.pulse{animation:none}}
-  </style>
-  <rect x="1" y="1" width="1278" height="326" rx="22" fill="url(#background)" stroke="#273449"/>
-  <rect x="1" y="1" width="1278" height="326" rx="22" fill="url(#grid)"/>
-  <ellipse cx="1065" cy="130" rx="285" ry="245" fill="url(#glow)"/>
-  <path d="M1 286Q260 247 500 282T980 281T1279 260" fill="none" stroke="url(#accent)" stroke-opacity=".25"/>
-  <path d="M1 307Q280 274 530 300T1010 298T1279 281" fill="none" stroke="url(#accent)" stroke-opacity=".1"/>
-  <rect x="48" y="42" width="231" height="28" rx="14" fill="#15302c" stroke="#245d4d"/>
-  <circle cx="65" cy="56" r="4" fill="#34d399" class="pulse"/>
-  <text x="79" y="61" font-size="12" letter-spacing="2" fill="#83eac4">OLIMJON / BUILD LAB</text>
-  <text x="48" y="132" font-size="55" font-weight="700" letter-spacing="-1.4" fill="#f0f6fc">Ideas into</text>
-  <text x="48" y="195" font-size="55" font-weight="700" letter-spacing="-1.4" fill="url(#accent)">working software.</text>
-  <text x="50" y="231" font-size="18" fill="#9caec6">AI tools. Web products. Learning by building.</text>
-  <g transform="translate(910 70)">
-    <g class="float" fill="none" stroke-linejoin="round">
-      <path d="m110 0 110 63v126l-110 63L0 189V63Z" stroke="#47658d" stroke-width="1.5"/>
-      <path d="m110 29 85 49v98l-85 49-85-49V78Z" fill="#19243d" fill-opacity=".7" stroke="url(#accent)" stroke-width="2"/>
-      <path d="m25 78 85 49 85-49M110 127v98M110 29v98" stroke="url(#accent)" stroke-width="1.4" opacity=".8"/>
-      <path d="m0 63 110 63 110-63M110 126v126" stroke="#6f73aa" stroke-dasharray="4 8" opacity=".5"/>
-      <circle cx="110" cy="127" r="23" fill="#101c2e" stroke="#34d399"/>
-      <path d="m103 118-9 9 9 9m14-18 9 9-9 9m-7-22-5 26" stroke="#b4f2dd" stroke-width="2.3" stroke-linecap="round"/>
-      <circle cx="110" cy="29" r="4" fill="#34d399" stroke="none"/>
-      <circle cx="195" cy="176" r="4" fill="#a78bfa" stroke="none"/>
-      <circle cx="25" cy="176" r="4" fill="#38bdf8" stroke="none"/>
-    </g>
-  </g>
-</svg>
+
+      <svg
+        width="854"
+        height="180"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        style="z-index:1;position:relative"
+        viewBox="0 0 854 180"
+      >
+        <style>
+      .text {   font-size: 42px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 16px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  }
+      .text, .desc {   animation: twinkling 4s ease-in-out infinite;  } @keyframes twinkling {   40% {     opacity: 1;   }   50% {     opacity: 0.5;   }   60% {     opacity: 1;   }   70% {     opacity: 0.5;   }   80% {     opacity: 1;   }  }
+    </style>
+        <defs>
+              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#4568dc"/><stop offset="100%" stop-color="#b06ab3"/>
+              </linearGradient>
+            </defs>
+
+      <g transform="translate(427, 90) scale(1, 1) translate(-427, -90)">
+        <path d="" fill="url(#linear)" opacity="0.4" >
+          <animate
+              attributeName="d"
+              dur="20s"
+              repeatCount="indefinite"
+              keyTimes="0;0.333;0.667;1"
+              calcmod="spline"
+              keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+              begin="0s"
+              values="M0 0L 0 100Q 213.5 140 427 110T 854 135L 854 0 Z;M0 0L 0 125Q 213.5 140 427 120T 854 110L 854 0 Z;M0 0L 0 145Q 213.5 115 427 145T 854 110L 854 0 Z;M0 0L 0 100Q 213.5 140 427 110T 854 135L 854 0 Z">
+          </animate>
+        </path>
+        <path d="" fill="url(#linear)" opacity="0.4" >
+          <animate
+            attributeName="d"
+            dur="20s"
+            repeatCount="indefinite"
+            keyTimes="0;0.333;0.667;1"
+            calcmod="spline"
+            keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+            begin="-10s"
+            values="M0 0L 0 115Q 213.5 160 427 130T 854 140L 854 0 Z;M0 0L 0 130Q 213.5 100 427 100T 854 120L 854 0 Z;M0 0L 0 125Q 213.5 105 427 130T 854 145L 854 0 Z;M0 0L 0 115Q 213.5 160 427 130T 854 140L 854 0 Z">
+          </animate>
+        </path>
+      </g>
+         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="32%" class="text" style="fill:#f7f5f5;" stroke="#none" stroke-width="1" >Olimjon Tojiboev</text>
+        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="51%" class="desc" style="fill:#f7f5f5;">Building useful AI and software</text>
+      </svg>
