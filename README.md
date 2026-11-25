@@ -103,180 +103,135 @@ mindmap
 
 <div align="center">
 
-## 02 / Technical Arsenal
+## 🛠️ Technical Arsenal
 
 </div>
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 💻 Core Languages
 
-<img src="https://img.shields.io/badge/Python-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=python" alt="Python" />
-<img src="https://img.shields.io/badge/TypeScript-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=typescript" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=javascript" alt="JavaScript" />
-<img src="https://img.shields.io/badge/SQL-162235?style=flat-square&amp;logoColor=93C5FD" alt="SQL" />
-<img src="https://img.shields.io/badge/HTML5-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=html5" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-162235?style=flat-square&amp;logoColor=93C5FD" alt="CSS3" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logoColor=white&amp;logo=python" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logoColor=white&amp;logo=typescript" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logoColor=white&amp;logo=javascript" alt="JavaScript" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logoColor=white&amp;logo=html5" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logoColor=white" alt="CSS3" />
 
 <sub>Languages used across my backend, interface and database work.</sub>
 
-</td>
-<td width="50%" valign="top">
 
 ### 🤖 Generative AI & Agent Workflows
 
-<img src="https://img.shields.io/badge/AI_Agents-162235?style=flat-square&amp;logoColor=93C5FD" alt="AI Agents" />
-<img src="https://img.shields.io/badge/DeepSeek_Adapter-162235?style=flat-square&amp;logoColor=93C5FD" alt="DeepSeek Adapter" />
-<img src="https://img.shields.io/badge/Gemini_Adapter-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=googlegemini" alt="Gemini Adapter" />
-<img src="https://img.shields.io/badge/Structured_Outputs-162235?style=flat-square&amp;logoColor=93C5FD" alt="Structured Outputs" />
-<img src="https://img.shields.io/badge/Mock_Providers-162235?style=flat-square&amp;logoColor=93C5FD" alt="Mock Providers" />
+<img src="https://img.shields.io/badge/AI_Agents-00A6A6?style=for-the-badge&amp;logoColor=white" alt="AI Agents" />
+<img src="https://img.shields.io/badge/DeepSeek_Adapter-3155A6?style=for-the-badge&amp;logoColor=white" alt="DeepSeek Adapter" />
+<img src="https://img.shields.io/badge/Gemini_Adapter-8E75B2?style=for-the-badge&amp;logoColor=white&amp;logo=googlegemini" alt="Gemini Adapter" />
+<img src="https://img.shields.io/badge/Structured_Outputs-6B21A8?style=for-the-badge&amp;logoColor=white" alt="Structured Outputs" />
+<img src="https://img.shields.io/badge/Mock_Providers-374151?style=for-the-badge&amp;logoColor=white" alt="Mock Providers" />
 
 <sub>Server-side provider integration and structured agent workflows; mock mode is the safe default.</sub>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### 🌐 Frontend & Product Interfaces
 
-<img src="https://img.shields.io/badge/React-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=react" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=nextdotjs" alt="Next.js" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=tailwindcss" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Responsive_UI-162235?style=flat-square&amp;logoColor=93C5FD" alt="Responsive UI" />
-<img src="https://img.shields.io/badge/Accessibility-162235?style=flat-square&amp;logoColor=93C5FD" alt="Accessibility" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logoColor=white&amp;logo=react" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logoColor=white&amp;logo=nextdotjs" alt="Next.js" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0891B2?style=for-the-badge&amp;logoColor=white&amp;logo=tailwindcss" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Responsive_UI-EC4899?style=for-the-badge&amp;logoColor=white" alt="Responsive UI" />
+<img src="https://img.shields.io/badge/Accessibility-4F46E5?style=for-the-badge&amp;logoColor=white" alt="Accessibility" />
 
 <sub>Dashboards, marketplace journeys and interfaces that stay readable across screen sizes.</sub>
 
-</td>
-<td width="50%" valign="top">
 
 ### ⚙️ Backend & API Engineering
 
-<img src="https://img.shields.io/badge/FastAPI-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=fastapi" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Pydantic-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=pydantic" alt="Pydantic" />
-<img src="https://img.shields.io/badge/HTTPX-162235?style=flat-square&amp;logoColor=93C5FD" alt="HTTPX" />
-<img src="https://img.shields.io/badge/Asyncio-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=python" alt="Asyncio" />
-<img src="https://img.shields.io/badge/SQLite-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=sqlite" alt="SQLite" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logoColor=white&amp;logo=fastapi" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&amp;logoColor=white&amp;logo=pydantic" alt="Pydantic" />
+<img src="https://img.shields.io/badge/HTTPX-4F46E5?style=for-the-badge&amp;logoColor=white" alt="HTTPX" />
+<img src="https://img.shields.io/badge/Asyncio-3776AB?style=for-the-badge&amp;logoColor=white&amp;logo=python" alt="Asyncio" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&amp;logoColor=white&amp;logo=sqlite" alt="SQLite" />
 
 <sub>Validated inputs, asynchronous tasks, provider boundaries and persistent job state.</sub>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### 🧊 Interactive 3D & Performance
 
-<img src="https://img.shields.io/badge/Three.js-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=threedotjs" alt="Three.js" />
-<img src="https://img.shields.io/badge/React_Three_Fiber-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=react" alt="React Three Fiber" />
-<img src="https://img.shields.io/badge/Drei-162235?style=flat-square&amp;logoColor=93C5FD" alt="Drei" />
-<img src="https://img.shields.io/badge/WebGL-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=webgl" alt="WebGL" />
-<img src="https://img.shields.io/badge/2D_Fallback-162235?style=flat-square&amp;logoColor=93C5FD" alt="2D Fallback" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&amp;logoColor=white&amp;logo=threedotjs" alt="Three.js" />
+<img src="https://img.shields.io/badge/React_Three_Fiber-111827?style=for-the-badge&amp;logoColor=white&amp;logo=react" alt="React Three Fiber" />
+<img src="https://img.shields.io/badge/Drei-4C1D95?style=for-the-badge&amp;logoColor=white" alt="Drei" />
+<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&amp;logoColor=white&amp;logo=webgl" alt="WebGL" />
+<img src="https://img.shields.io/badge/2D_Fallback-0D9488?style=for-the-badge&amp;logoColor=white" alt="2D Fallback" />
 
 <sub>A virtual agent office with camera controls, workstation selection and accessible fallback views.</sub>
 
-</td>
-<td width="50%" valign="top">
 
 ### 🎬 Video, Audio & Media
 
-<img src="https://img.shields.io/badge/FFmpeg-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=ffmpeg" alt="FFmpeg" />
-<img src="https://img.shields.io/badge/FFprobe-162235?style=flat-square&amp;logoColor=93C5FD" alt="FFprobe" />
-<img src="https://img.shields.io/badge/MP4_Workflows-162235?style=flat-square&amp;logoColor=93C5FD" alt="MP4 Workflows" />
-<img src="https://img.shields.io/badge/Subtitles-162235?style=flat-square&amp;logoColor=93C5FD" alt="Subtitles" />
-<img src="https://img.shields.io/badge/Audio_Checks-162235?style=flat-square&amp;logoColor=93C5FD" alt="Audio Checks" />
-<img src="https://img.shields.io/badge/Scene_Imports-162235?style=flat-square&amp;logoColor=93C5FD" alt="Scene Imports" />
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&amp;logoColor=white&amp;logo=ffmpeg" alt="FFmpeg" />
+<img src="https://img.shields.io/badge/FFprobe-25632C?style=for-the-badge&amp;logoColor=white" alt="FFprobe" />
+<img src="https://img.shields.io/badge/MP4_Workflows-7C3AED?style=for-the-badge&amp;logoColor=white" alt="MP4 Workflows" />
+<img src="https://img.shields.io/badge/Subtitles-D97706?style=for-the-badge&amp;logoColor=white" alt="Subtitles" />
+<img src="https://img.shields.io/badge/Audio_Checks-DB2777?style=for-the-badge&amp;logoColor=white" alt="Audio Checks" />
+<img src="https://img.shields.io/badge/Scene_Imports-0F766E?style=for-the-badge&amp;logoColor=white" alt="Scene Imports" />
 
 <sub>Scene normalization, audio/subtitle assembly, clip imports and reviewable exports.</sub>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### 🗄️ Databases & Access Control
 
-<img src="https://img.shields.io/badge/Supabase-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=supabase" alt="Supabase" />
-<img src="https://img.shields.io/badge/PostgreSQL-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=postgresql" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Row_Level_Security-162235?style=flat-square&amp;logoColor=93C5FD" alt="Row Level Security" />
-<img src="https://img.shields.io/badge/MFA-162235?style=flat-square&amp;logoColor=93C5FD" alt="MFA" />
-<img src="https://img.shields.io/badge/Audit_Trails-162235?style=flat-square&amp;logoColor=93C5FD" alt="Audit Trails" />
+<img src="https://img.shields.io/badge/Supabase-166448?style=for-the-badge&amp;logoColor=white&amp;logo=supabase" alt="Supabase" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logoColor=white&amp;logo=postgresql" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Row_Level_Security-475569?style=for-the-badge&amp;logoColor=white" alt="Row Level Security" />
+<img src="https://img.shields.io/badge/MFA-7C3AED?style=for-the-badge&amp;logoColor=white" alt="MFA" />
+<img src="https://img.shields.io/badge/Audit_Trails-B45309?style=for-the-badge&amp;logoColor=white" alt="Audit Trails" />
 
 <sub>Marketplace data, owner-scoped access and a separate staff-console permission boundary.</sub>
 
-</td>
-<td width="50%" valign="top">
 
 ### 📱 Mobile & Cross-Platform
 
-<img src="https://img.shields.io/badge/Expo-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=expo" alt="Expo" />
-<img src="https://img.shields.io/badge/React_Native-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=react" alt="React Native" />
-<img src="https://img.shields.io/badge/Expo_Router-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=expo" alt="Expo Router" />
-<img src="https://img.shields.io/badge/WebView-162235?style=flat-square&amp;logoColor=93C5FD" alt="WebView" />
-<img src="https://img.shields.io/badge/Android-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=android" alt="Android" />
-<img src="https://img.shields.io/badge/iOS-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=apple" alt="iOS" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&amp;logoColor=white&amp;logo=expo" alt="Expo" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&amp;logoColor=white&amp;logo=react" alt="React Native" />
+<img src="https://img.shields.io/badge/Expo_Router-4630EB?style=for-the-badge&amp;logoColor=white&amp;logo=expo" alt="Expo Router" />
+<img src="https://img.shields.io/badge/WebView-0E7490?style=for-the-badge&amp;logoColor=white" alt="WebView" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&amp;logoColor=white&amp;logo=android" alt="Android" />
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&amp;logoColor=white&amp;logo=apple" alt="iOS" />
 
 <sub>A WebView companion and mobile auth-return handling; native device acceptance is a separate check.</sub>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### 🔄 Workflow & Live Monitoring
 
-<img src="https://img.shields.io/badge/Server_Sent_Events-162235?style=flat-square&amp;logoColor=93C5FD" alt="Server Sent Events" />
-<img src="https://img.shields.io/badge/Job_Recovery-162235?style=flat-square&amp;logoColor=93C5FD" alt="Job Recovery" />
-<img src="https://img.shields.io/badge/Idempotency-162235?style=flat-square&amp;logoColor=93C5FD" alt="Idempotency" />
-<img src="https://img.shields.io/badge/Cancellation-162235?style=flat-square&amp;logoColor=93C5FD" alt="Cancellation" />
-<img src="https://img.shields.io/badge/Local_Workers-162235?style=flat-square&amp;logoColor=93C5FD" alt="Local Workers" />
+<img src="https://img.shields.io/badge/Server_Sent_Events-0284C7?style=for-the-badge&amp;logoColor=white" alt="Server Sent Events" />
+<img src="https://img.shields.io/badge/Job_Recovery-9333EA?style=for-the-badge&amp;logoColor=white" alt="Job Recovery" />
+<img src="https://img.shields.io/badge/Idempotency-475569?style=for-the-badge&amp;logoColor=white" alt="Idempotency" />
+<img src="https://img.shields.io/badge/Cancellation-B91C1C?style=for-the-badge&amp;logoColor=white" alt="Cancellation" />
+<img src="https://img.shields.io/badge/Local_Workers-0F766E?style=for-the-badge&amp;logoColor=white" alt="Local Workers" />
 
 <sub>Real backend task events, bounded execution and explicit recovery states.</sub>
 
-</td>
-<td width="50%" valign="top">
 
 ### 🧪 Testing & Development Tools
 
-<img src="https://img.shields.io/badge/Playwright-162235?style=flat-square&amp;logoColor=93C5FD" alt="Playwright" />
-<img src="https://img.shields.io/badge/Python_unittest-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=python" alt="Python unittest" />
-<img src="https://img.shields.io/badge/Node_Test_Runner-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=nodedotjs" alt="Node Test Runner" />
-<img src="https://img.shields.io/badge/PGlite-162235?style=flat-square&amp;logoColor=93C5FD" alt="PGlite" />
-<img src="https://img.shields.io/badge/Git-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=git" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub_Actions-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=githubactions" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&amp;logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/Python_unittest-3776AB?style=for-the-badge&amp;logoColor=white&amp;logo=python" alt="Python unittest" />
+<img src="https://img.shields.io/badge/Node_Test_Runner-339933?style=for-the-badge&amp;logoColor=white&amp;logo=nodedotjs" alt="Node Test Runner" />
+<img src="https://img.shields.io/badge/PGlite-4169E1?style=for-the-badge&amp;logoColor=white" alt="PGlite" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logoColor=white&amp;logo=git" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logoColor=white&amp;logo=githubactions" alt="GitHub Actions" />
 
 <sub>Mocked provider tests, browser regressions and disposable database fixtures.</sub>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### 🔒 Responsible AI & Engineering Safety
 
-<img src="https://img.shields.io/badge/Human_Approval-162235?style=flat-square&amp;logoColor=93C5FD" alt="Human Approval" />
-<img src="https://img.shields.io/badge/Budget_Guards-162235?style=flat-square&amp;logoColor=93C5FD" alt="Budget Guards" />
-<img src="https://img.shields.io/badge/Server_Side_Secrets-162235?style=flat-square&amp;logoColor=93C5FD" alt="Server Side Secrets" />
-<img src="https://img.shields.io/badge/Input_Validation-162235?style=flat-square&amp;logoColor=93C5FD" alt="Input Validation" />
-<img src="https://img.shields.io/badge/Private_Test_Data-162235?style=flat-square&amp;logoColor=93C5FD" alt="Private Test Data" />
+<img src="https://img.shields.io/badge/Human_Approval-10B981?style=for-the-badge&amp;logoColor=white" alt="Human Approval" />
+<img src="https://img.shields.io/badge/Budget_Guards-D97706?style=for-the-badge&amp;logoColor=white" alt="Budget Guards" />
+<img src="https://img.shields.io/badge/Server_Side_Secrets-374151?style=for-the-badge&amp;logoColor=white" alt="Server Side Secrets" />
+<img src="https://img.shields.io/badge/Input_Validation-2563EB?style=for-the-badge&amp;logoColor=white" alt="Input Validation" />
+<img src="https://img.shields.io/badge/Private_Test_Data-6D28D9?style=for-the-badge&amp;logoColor=white" alt="Private Test Data" />
 
 <sub>Explicit approval, bounded budgets, input checks and server-side credentials.</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**Working principles**
-
-Clear interfaces · Testable workflows · Safe defaults · Continuous improvement
-
-</td>
-</tr>
-</table>
 
 </div>
 
