@@ -346,8 +346,9 @@ flowchart LR
 ### 소셜 미디어
 
 <p>
-<a href="https://www.instagram.com/zenuz.ai/"><img src="https://img.shields.io/badge/Instagram-%40zenuz.ai-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram: @zenuz.ai" /></a>
-<a href="https://www.youtube.com/@zenuz_ai"><img src="https://img.shields.io/badge/YouTube-%40zenuz__ai-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube: @zenuz_ai" /></a>
+<a href="https://www.instagram.com/mrtojiboev/"><img src="https://img.shields.io/badge/Instagram-%40mrtojiboev-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram: @mrtojiboev" /></a>
+<a href="https://www.facebook.com/mr_olimjon_"><img src="https://img.shields.io/badge/Facebook-Olimjon-0866FF?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Olimjon on Facebook" /></a>
+<a href="https://www.linkedin.com/in/olimjon-tojiboev-685014449/"><img src="https://img.shields.io/badge/LinkedIn-Olimjon_Tojiboev-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Olimjon Tojiboev on LinkedIn" /></a>
 </p>
 
 ### 이런 주제에 관심이 있습니다
