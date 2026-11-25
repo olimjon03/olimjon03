@@ -18,6 +18,12 @@
 
 <img src="assets/pro-divider.svg" width="100%" alt="" />
 
+<p align="center">
+<a href="https://www.instagram.com/mrtojiboev/"><img src="assets/social/instagram.svg" width="240" alt="Instagram @mrtojiboev" /></a>
+<a href="https://www.facebook.com/mr_olimjon_"><img src="assets/social/facebook.svg" width="240" alt="Facebook mr_olimjon_" /></a>
+<a href="https://www.linkedin.com/in/olimjon-tojiboev-685014449/"><img src="assets/social/linkedin.svg" width="240" alt="LinkedIn Olimjon Tojiboev" /></a>
+</p>
+
 <div align="center">
 
 ## 01 / About Me
@@ -341,14 +347,6 @@ I connect a small working feature, test it and document its limits before expand
 <a href="https://github.com/olimjon03"><img src="https://img.shields.io/badge/GitHub_%2F_Follow-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=github" alt="GitHub / Follow" /></a>
 <a href="https://github.com/olimjon03?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Projects-162235?style=flat-square&amp;logoColor=93C5FD" alt="Explore My Projects" /></a>
 <a href="https://github.com/olimjon03/python-learning"><img src="https://img.shields.io/badge/Learn_with_Projects-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=python" alt="Learn with Projects" /></a>
-</p>
-
-### Social Media
-
-<p>
-<a href="https://www.instagram.com/mrtojiboev/"><img src="https://img.shields.io/badge/Instagram-%40mrtojiboev-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram: @mrtojiboev" /></a>
-<a href="https://www.facebook.com/mr_olimjon_"><img src="https://img.shields.io/badge/Facebook-Olimjon-0866FF?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Olimjon on Facebook" /></a>
-<a href="https://www.linkedin.com/in/olimjon-tojiboev-685014449/"><img src="https://img.shields.io/badge/LinkedIn-Olimjon_Tojiboev-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Olimjon Tojiboev on LinkedIn" /></a>
 </p>
 
 ### Conversations I’m interested in

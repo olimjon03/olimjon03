@@ -8,3 +8,5 @@
 No paid service, API credential, private GitHub token, browser session, private contribution query or scheduled workflow is needed by these assets.
 
 Premium redesign: `pro-hero.svg`, `pro-footer.svg`, `pro-divider.svg` and the four `project-*.svg` covers are original vector illustrations. Covers are conceptual artwork, not application screenshots. Blue, violet and teal form a shared palette. Legacy wave artwork remains available but is no longer used in the README.
+
+`social/*.svg`: original Instagram, Facebook and LinkedIn profile cards with brand-colored icons, gentle CSS animation and reduced-motion support. No scripts, remote resources or tracking are embedded.
