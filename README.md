@@ -343,6 +343,13 @@ I connect a small working feature, test it and document its limits before expand
 <a href="https://github.com/olimjon03/python-learning"><img src="https://img.shields.io/badge/Learn_with_Projects-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=python" alt="Learn with Projects" /></a>
 </p>
 
+### Social Media
+
+<p>
+<a href="https://www.instagram.com/zenuz.ai/"><img src="https://img.shields.io/badge/Instagram-%40zenuz.ai-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram: @zenuz.ai" /></a>
+<a href="https://www.youtube.com/@zenuz_ai"><img src="https://img.shields.io/badge/YouTube-%40zenuz__ai-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube: @zenuz_ai" /></a>
+</p>
+
 ### Conversations I’m interested in
 
 🤖 Practical AI tools · 🌐 Full-stack products · 🎬 Creative automation · 📚 Learning through projects

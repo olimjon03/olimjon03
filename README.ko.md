@@ -343,6 +343,13 @@ flowchart LR
 <a href="https://github.com/olimjon03/python-learning"><img src="https://img.shields.io/badge/Learn_with_Projects-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=python" alt="Learn with Projects" /></a>
 </p>
 
+### 소셜 미디어
+
+<p>
+<a href="https://www.instagram.com/zenuz.ai/"><img src="https://img.shields.io/badge/Instagram-%40zenuz.ai-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram: @zenuz.ai" /></a>
+<a href="https://www.youtube.com/@zenuz_ai"><img src="https://img.shields.io/badge/YouTube-%40zenuz__ai-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube: @zenuz_ai" /></a>
+</p>
+
 ### 이런 주제에 관심이 있습니다
 
 🤖 실용적인 AI 도구 · 🌐 풀스택 제품 · 🎬 미디어 자동화 · 📚 프로젝트 기반 학습
