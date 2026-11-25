@@ -6,3 +6,5 @@
 - GitHub statistics/streak/language cards and the live calendar in the README are external image services displaying public data. Their availability and caching are independent of this repository.
 
 No paid service, API credential, private GitHub token, browser session, private contribution query or scheduled workflow is needed by these assets.
+
+Premium redesign: `pro-hero.svg`, `pro-footer.svg`, `pro-divider.svg` and the four `project-*.svg` covers are original vector illustrations. Covers are conceptual artwork, not application screenshots. Blue, violet and teal form a shared palette. Legacy wave artwork remains available but is no longer used in the README.
