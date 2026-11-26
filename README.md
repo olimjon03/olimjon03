@@ -23,14 +23,6 @@
 
 <img src="assets/pro-divider.svg" width="100%" alt="" />
 
-<p align="center">
-<a href="https://www.instagram.com/mrtojiboev/"><img src="assets/social/instagram.svg" width="240" alt="Instagram @mrtojiboev" /></a>
-<a href="https://www.facebook.com/mr_olimjon_"><img src="assets/social/facebook.svg" width="240" alt="Facebook mr_olimjon_" /></a>
-<a href="https://www.linkedin.com/in/olimjon-tojiboev-685014449/"><img src="assets/social/linkedin.svg" width="240" alt="LinkedIn Olimjon Tojiboev" /></a>
-<br />
-<a href="mailto:olimjon260303@gmail.com"><img src="assets/social/email.svg" width="290" alt="Email: olimjon260303@gmail.com" /></a>
-</p>
-
 <div align="center">
 
 ## 01 / About Me
@@ -111,6 +103,14 @@ mindmap
 </td>
 </tr>
 </table>
+
+<p align="center">
+<a href="https://www.instagram.com/mrtojiboev/"><img src="assets/social/instagram.svg" width="200" alt="Instagram @mrtojiboev" /></a>
+<a href="https://www.facebook.com/mr_olimjon_"><img src="assets/social/facebook.svg" width="200" alt="Facebook mr_olimjon_" /></a>
+<a href="https://www.linkedin.com/in/olimjon-tojiboev-685014449/"><img src="assets/social/linkedin.svg" width="200" alt="LinkedIn Olimjon Tojiboev" /></a>
+<br />
+<a href="mailto:olimjon260303@gmail.com"><img src="assets/social/email.svg" width="245" alt="Email: olimjon260303@gmail.com" /></a>
+</p>
 
 <img src="assets/pro-divider.svg" width="100%" alt="" />
 
