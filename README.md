@@ -13,6 +13,11 @@
 <a href="https://github.com/olimjon03/python-learning"><img src="https://img.shields.io/badge/Python_Learning-162235?style=flat-square&amp;logoColor=93C5FD&amp;logo=python" alt="Python Learning" /></a>
 </p>
 
+<p>
+<img src="https://komarev.com/ghpvc/?username=olimjon03&amp;label=Profile+views&amp;color=93c5fd&amp;style=for-the-badge" alt="Profile views" />
+<br /><sub>Page views, not unique visitors.</sub>
+</p>
+
 
 </div>
 
