@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="assets/pro-hero.svg" width="100%" alt="Olimjon Tojiboev — Building useful AI and software" />
+<img src="assets/pro-hero.svg" width="100%" alt="Olimjon Tojiboev — Build with purpose. Ship with care. Practical AI tools and thoughtful digital products. Python, TypeScript, Next.js and FastAPI." />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1200&amp;color=93C5FD&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=720&amp;height=40&amp;lines=Building+practical+AI+tools%3BFlow+AI+Agents+and+the+ZUNO+ecosystem%3BPython+%2B+TypeScript+%2B+Next.js+%2B+FastAPI%3BLearning+by+building%2C+testing+and+improving" width="100%" alt="Building AI tools, Flow AI Agents and ZUNO; learning by building and testing" />
 
@@ -355,7 +355,7 @@ I connect a small working feature, test it and document its limits before expand
 
 🤖 Practical AI tools · 🌐 Full-stack products · 🎬 Creative automation · 📚 Learning through projects
 
-<img src="assets/pro-footer.svg" width="100%" alt="Gradient waving footer" />
+<img src="assets/pro-footer.svg" width="100%" alt="Thoughtful work. Continuous improvement. — Olimjon / Build Lab" />
 
 ### ⭐ If a project helps you, a star is appreciated!
 

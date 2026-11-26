@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="assets/pro-hero.svg" width="100%" alt="Olimjon Tojiboev — Building useful AI and software" />
+<img src="assets/pro-hero.svg" width="100%" alt="Olimjon Tojiboev — 목적을 갖고 만들고, 세심하게 완성합니다. 실용적인 AI 도구와 디지털 제품. Python, TypeScript, Next.js, FastAPI." />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1200&amp;color=93C5FD&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=720&amp;height=40&amp;lines=Building+practical+AI+tools%3BFlow+AI+Agents+and+the+ZUNO+ecosystem%3BPython+%2B+TypeScript+%2B+Next.js+%2B+FastAPI%3BLearning+by+building%2C+testing+and+improving" width="100%" alt="Building AI tools, Flow AI Agents and ZUNO; learning by building and testing" />
 
@@ -355,7 +355,7 @@ flowchart LR
 
 🤖 실용적인 AI 도구 · 🌐 풀스택 제품 · 🎬 미디어 자동화 · 📚 프로젝트 기반 학습
 
-<img src="assets/pro-footer.svg" width="100%" alt="Gradient waving footer" />
+<img src="assets/pro-footer.svg" width="100%" alt="신중한 작업과 꾸준한 개선 — Olimjon / Build Lab" />
 
 ### ⭐ 도움이 된 프로젝트가 있다면 Star로 응원해 주세요!
 

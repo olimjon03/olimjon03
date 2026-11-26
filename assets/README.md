@@ -10,3 +10,7 @@ No paid service, API credential, private GitHub token, browser session, private 
 Premium redesign: `pro-hero.svg`, `pro-footer.svg`, `pro-divider.svg` and the four `project-*.svg` covers are original vector illustrations. Covers are conceptual artwork, not application screenshots. Blue, violet and teal form a shared palette. Legacy wave artwork remains available but is no longer used in the README.
 
 `social/*.svg`: original Instagram, Facebook and LinkedIn profile cards with brand-colored icons, gentle CSS animation and reduced-motion support. No scripts, remote resources or tracking are embedded.
+
+## Local checks
+
+Run `python3 scripts/check_profile.py` from the repository root (Python 3.9+). This network-free check validates image alt attributes, local asset paths and the current banner/footer descriptions in both README languages. Empty alt text is allowed for decorative images.
