@@ -14,3 +14,5 @@ Premium redesign: `pro-hero.svg`, `pro-footer.svg`, `pro-divider.svg` and the fo
 ## Local checks
 
 Run `python3 scripts/check_profile.py` from the repository root (Python 3.9+). This network-free check validates image alt attributes, local asset paths and the current banner/footer descriptions in both README languages. Empty alt text is allowed for decorative images.
+
+Validator regression tests: `python3 -m unittest discover -s scripts -p 'test_*.py' -v`. GitHub Actions runs both checks on main pushes and pull requests with read-only repository permissions. No packages, provider credentials or AI requests are needed by the checks.
